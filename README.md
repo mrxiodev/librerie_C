@@ -25,7 +25,7 @@ folder: ``` ./libs ```
 ### ``` void utility_procedures(); ```
 - **/utility/** : libreria contenente gli algoritmi utili
 
-### ``` void handling_linkedLists_procedures(); ```
+### ``` void handling_linkedLists_procedures(); ``` [Library](https://github.com/mrxiodev/linked_list)
 - **/linked_list/** : libreria contenente gli algoritmi primitivi per le liste
 - **/linked_list/sorting/** : libreria contenente gli algoritmi di ordinamento per le liste
 - **/linked_list/searcnihg/** : libreria contenente gli algoritmi di ordinamento per le liste
